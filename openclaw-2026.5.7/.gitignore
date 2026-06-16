@@ -1,0 +1,16 @@
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+.env
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+*.log
+*.tmp
+.openclaw/
+.artifacts/
+.agents/

@@ -1,0 +1,13 @@
+{
+  "mcp": {
+    "servers": {
+      "thinkcheck": {
+        "url": "http://localhost:8000/mcp",
+        "transport": "streamable-http",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+# ESP32 CSI Active STA Mode Patch
+# For Aegis Perception Subsystem v2.0
+# 
+# This patch enables active CSI collection in STA mode
+# 
+# Patch instructions:
+# 1. Apply to ESP-IDF v5.1+
+# 2. Enable CSI in menuconfig: Component config -> ESP32-specific -> CSI
+# 3. Set CSI mode to Active
+# 
+# Modified files:
+# - components/esp_wifi/include/esp_wifi_types.h
+# - components/esp_wifi/src/esp32/wifi.c
+# - components/esp_wifi/src/esp32/esp32_csi.c
+# 
+# Configuration:
+# - CSI_CHANNEL: 1-14 (2.4GHz) or 36-165 (5GHz)
+# - CSI_SAMPLING_RATE: 100-1000 Hz
+# - CSI_BANDWIDTH: HT20, HT40, VHT20, VHT40, VHT80
+# 
+# Output format:
+# Timestamp | Channel | RSSI | CSI Matrix (30 subcarriers)
+# 
+# Example output:
+# 1699999999.123456,1, -58, [1,2,3,...,30]

@@ -1,0 +1,13 @@
+# Aegis Perception Subsystem Dependencies
+# Python 3.9+ required
+
+# Core dependencies
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Network
+pyserial>=3.5
+
+# Utilities
+pydantic>=2.0.0
+loguru>=0.7.0

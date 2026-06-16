@@ -1,0 +1,902 @@
+[
+  {
+    "turn": 1,
+    "U": 0.865,
+    "D": 0.393,
+    "A": 0.063,
+    "H": 0.445,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 2,
+    "U": 0.896,
+    "D": 0.388,
+    "A": 0.045,
+    "H": 0.461,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 3,
+    "U": 0.897,
+    "D": 0.438,
+    "A": 0.041,
+    "H": 0.478,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 4,
+    "U": 0.866,
+    "D": 0.377,
+    "A": 0.041,
+    "H": 0.447,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 5,
+    "U": 0.857,
+    "D": 0.304,
+    "A": 0.016,
+    "H": 0.43,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 6,
+    "U": 0.833,
+    "D": 0.349,
+    "A": 0.056,
+    "H": 0.421,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 7,
+    "U": 0.823,
+    "D": 0.329,
+    "A": 0.079,
+    "H": 0.404,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 8,
+    "U": 0.843,
+    "D": 0.403,
+    "A": 0.022,
+    "H": 0.452,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 9,
+    "U": 0.834,
+    "D": 0.406,
+    "A": 0.027,
+    "H": 0.447,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 10,
+    "U": 0.861,
+    "D": 0.37,
+    "A": 0.044,
+    "H": 0.442,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 11,
+    "U": 0.832,
+    "D": 0.493,
+    "A": 0.05,
+    "H": 0.466,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 12,
+    "U": 0.818,
+    "D": 0.441,
+    "A": 0.026,
+    "H": 0.452,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 13,
+    "U": 0.856,
+    "D": 0.302,
+    "A": 0.023,
+    "H": 0.426,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 14,
+    "U": 0.856,
+    "D": 0.437,
+    "A": 0.053,
+    "H": 0.457,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 15,
+    "U": 0.847,
+    "D": 0.385,
+    "A": 0.02,
+    "H": 0.448,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 16,
+    "U": 0.828,
+    "D": 0.377,
+    "A": 0.071,
+    "H": 0.423,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 17,
+    "U": 0.86,
+    "D": 0.312,
+    "A": 0.056,
+    "H": 0.421,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 18,
+    "U": 0.838,
+    "D": 0.366,
+    "A": 0.062,
+    "H": 0.427,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 19,
+    "U": 0.881,
+    "D": 0.447,
+    "A": 0.033,
+    "H": 0.476,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 20,
+    "U": 0.841,
+    "D": 0.417,
+    "A": 0.07,
+    "H": 0.44,
+    "status": "ALERT",
+    "phase": "normal"
+  },
+  {
+    "turn": 21,
+    "U": 0.776,
+    "D": 0.441,
+    "A": 0.037,
+    "H": 0.431,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 22,
+    "U": 0.744,
+    "D": 0.491,
+    "A": 0.131,
+    "H": 0.406,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 23,
+    "U": 0.768,
+    "D": 0.5,
+    "A": 0.121,
+    "H": 0.421,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 24,
+    "U": 0.741,
+    "D": 0.468,
+    "A": 0.176,
+    "H": 0.384,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 25,
+    "U": 0.749,
+    "D": 0.528,
+    "A": 0.071,
+    "H": 0.437,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 26,
+    "U": 0.765,
+    "D": 0.454,
+    "A": 0.161,
+    "H": 0.394,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 27,
+    "U": 0.733,
+    "D": 0.351,
+    "A": 0.183,
+    "H": 0.343,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 28,
+    "U": 0.731,
+    "D": 0.524,
+    "A": 0.194,
+    "H": 0.391,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 29,
+    "U": 0.686,
+    "D": 0.425,
+    "A": 0.257,
+    "H": 0.325,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 30,
+    "U": 0.71,
+    "D": 0.424,
+    "A": 0.265,
+    "H": 0.331,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 31,
+    "U": 0.693,
+    "D": 0.498,
+    "A": 0.249,
+    "H": 0.352,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 32,
+    "U": 0.67,
+    "D": 0.43,
+    "A": 0.246,
+    "H": 0.323,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 33,
+    "U": 0.679,
+    "D": 0.463,
+    "A": 0.31,
+    "H": 0.317,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 34,
+    "U": 0.653,
+    "D": 0.379,
+    "A": 0.317,
+    "H": 0.28,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 35,
+    "U": 0.64,
+    "D": 0.41,
+    "A": 0.345,
+    "H": 0.275,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 36,
+    "U": 0.652,
+    "D": 0.544,
+    "A": 0.375,
+    "H": 0.312,
+    "status": "ALERT",
+    "phase": "attack"
+  },
+  {
+    "turn": 37,
+    "U": 0.638,
+    "D": 0.446,
+    "A": 0.332,
+    "H": 0.289,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 38,
+    "U": 0.619,
+    "D": 0.453,
+    "A": 0.484,
+    "H": 0.238,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 39,
+    "U": 0.604,
+    "D": 0.465,
+    "A": 0.429,
+    "H": 0.253,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 40,
+    "U": 0.565,
+    "D": 0.507,
+    "A": 0.473,
+    "H": 0.236,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 41,
+    "U": 0.614,
+    "D": 0.405,
+    "A": 0.512,
+    "H": 0.213,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 42,
+    "U": 0.538,
+    "D": 0.479,
+    "A": 0.556,
+    "H": 0.192,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 43,
+    "U": 0.54,
+    "D": 0.422,
+    "A": 0.513,
+    "H": 0.189,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 44,
+    "U": 0.545,
+    "D": 0.372,
+    "A": 0.532,
+    "H": 0.17,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 45,
+    "U": 0.518,
+    "D": 0.474,
+    "A": 0.522,
+    "H": 0.193,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 46,
+    "U": 0.586,
+    "D": 0.411,
+    "A": 0.56,
+    "H": 0.19,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 47,
+    "U": 0.554,
+    "D": 0.388,
+    "A": 0.597,
+    "H": 0.159,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 48,
+    "U": 0.559,
+    "D": 0.37,
+    "A": 0.616,
+    "H": 0.15,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 49,
+    "U": 0.518,
+    "D": 0.489,
+    "A": 0.593,
+    "H": 0.176,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 50,
+    "U": 0.46,
+    "D": 0.476,
+    "A": 0.659,
+    "H": 0.129,
+    "status": "DANGER",
+    "phase": "attack"
+  },
+  {
+    "turn": 51,
+    "U": 0.5,
+    "D": 0.517,
+    "A": 0.523,
+    "H": 0.198,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 52,
+    "U": 0.491,
+    "D": 0.515,
+    "A": 0.521,
+    "H": 0.194,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 53,
+    "U": 0.532,
+    "D": 0.524,
+    "A": 0.502,
+    "H": 0.219,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 54,
+    "U": 0.488,
+    "D": 0.451,
+    "A": 0.581,
+    "H": 0.156,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 55,
+    "U": 0.495,
+    "D": 0.459,
+    "A": 0.589,
+    "H": 0.159,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 56,
+    "U": 0.464,
+    "D": 0.541,
+    "A": 0.626,
+    "H": 0.16,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 57,
+    "U": 0.437,
+    "D": 0.462,
+    "A": 0.514,
+    "H": 0.159,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 58,
+    "U": 0.412,
+    "D": 0.496,
+    "A": 0.564,
+    "H": 0.144,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 59,
+    "U": 0.436,
+    "D": 0.541,
+    "A": 0.551,
+    "H": 0.172,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 60,
+    "U": 0.464,
+    "D": 0.487,
+    "A": 0.659,
+    "H": 0.134,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 61,
+    "U": 0.431,
+    "D": 0.457,
+    "A": 0.507,
+    "H": 0.157,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 62,
+    "U": 0.418,
+    "D": 0.489,
+    "A": 0.579,
+    "H": 0.14,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 63,
+    "U": 0.41,
+    "D": 0.496,
+    "A": 0.516,
+    "H": 0.158,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 64,
+    "U": 0.343,
+    "D": 0.478,
+    "A": 0.584,
+    "H": 0.105,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 65,
+    "U": 0.386,
+    "D": 0.438,
+    "A": 0.557,
+    "H": 0.119,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 66,
+    "U": 0.384,
+    "D": 0.456,
+    "A": 0.556,
+    "H": 0.123,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 67,
+    "U": 0.366,
+    "D": 0.443,
+    "A": 0.564,
+    "H": 0.11,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 68,
+    "U": 0.373,
+    "D": 0.554,
+    "A": 0.592,
+    "H": 0.138,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 69,
+    "U": 0.307,
+    "D": 0.453,
+    "A": 0.571,
+    "H": 0.087,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 70,
+    "U": 0.355,
+    "D": 0.526,
+    "A": 0.704,
+    "H": 0.089,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 71,
+    "U": 0.349,
+    "D": 0.557,
+    "A": 0.588,
+    "H": 0.13,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 72,
+    "U": 0.344,
+    "D": 0.484,
+    "A": 0.58,
+    "H": 0.109,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 73,
+    "U": 0.293,
+    "D": 0.488,
+    "A": 0.531,
+    "H": 0.104,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 74,
+    "U": 0.31,
+    "D": 0.616,
+    "A": 0.475,
+    "H": 0.166,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 75,
+    "U": 0.321,
+    "D": 0.419,
+    "A": 0.531,
+    "H": 0.095,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 76,
+    "U": 0.325,
+    "D": 0.503,
+    "A": 0.507,
+    "H": 0.129,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 77,
+    "U": 0.263,
+    "D": 0.534,
+    "A": 0.521,
+    "H": 0.109,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 78,
+    "U": 0.282,
+    "D": 0.502,
+    "A": 0.524,
+    "H": 0.107,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 79,
+    "U": 0.332,
+    "D": 0.532,
+    "A": 0.469,
+    "H": 0.152,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 80,
+    "U": 0.266,
+    "D": 0.467,
+    "A": 0.584,
+    "H": 0.071,
+    "status": "DANGER",
+    "phase": "drift"
+  },
+  {
+    "turn": 81,
+    "U": 0.301,
+    "D": 0.444,
+    "A": 0.59,
+    "H": 0.077,
+    "status": "DANGER",
+    "phase": "recovery"
+  },
+  {
+    "turn": 82,
+    "U": 0.376,
+    "D": 0.39,
+    "A": 0.54,
+    "H": 0.105,
+    "status": "DANGER",
+    "phase": "recovery"
+  },
+  {
+    "turn": 83,
+    "U": 0.361,
+    "D": 0.417,
+    "A": 0.578,
+    "H": 0.096,
+    "status": "DANGER",
+    "phase": "recovery"
+  },
+  {
+    "turn": 84,
+    "U": 0.412,
+    "D": 0.387,
+    "A": 0.528,
+    "H": 0.123,
+    "status": "DANGER",
+    "phase": "recovery"
+  },
+  {
+    "turn": 85,
+    "U": 0.489,
+    "D": 0.502,
+    "A": 0.429,
+    "H": 0.217,
+    "status": "DANGER",
+    "phase": "recovery"
+  },
+  {
+    "turn": 86,
+    "U": 0.435,
+    "D": 0.513,
+    "A": 0.429,
+    "H": 0.2,
+    "status": "DANGER",
+    "phase": "recovery"
+  },
+  {
+    "turn": 87,
+    "U": 0.488,
+    "D": 0.489,
+    "A": 0.397,
+    "H": 0.223,
+    "status": "DANGER",
+    "phase": "recovery"
+  },
+  {
+    "turn": 88,
+    "U": 0.498,
+    "D": 0.288,
+    "A": 0.369,
+    "H": 0.175,
+    "status": "DANGER",
+    "phase": "recovery"
+  },
+  {
+    "turn": 89,
+    "U": 0.517,
+    "D": 0.388,
+    "A": 0.424,
+    "H": 0.196,
+    "status": "DANGER",
+    "phase": "recovery"
+  },
+  {
+    "turn": 90,
+    "U": 0.507,
+    "D": 0.428,
+    "A": 0.354,
+    "H": 0.225,
+    "status": "DANGER",
+    "phase": "recovery"
+  },
+  {
+    "turn": 91,
+    "U": 0.618,
+    "D": 0.378,
+    "A": 0.36,
+    "H": 0.253,
+    "status": "DANGER",
+    "phase": "recovery"
+  },
+  {
+    "turn": 92,
+    "U": 0.6,
+    "D": 0.401,
+    "A": 0.314,
+    "H": 0.266,
+    "status": "DANGER",
+    "phase": "recovery"
+  },
+  {
+    "turn": 93,
+    "U": 0.631,
+    "D": 0.42,
+    "A": 0.277,
+    "H": 0.295,
+    "status": "DANGER",
+    "phase": "recovery"
+  },
+  {
+    "turn": 94,
+    "U": 0.638,
+    "D": 0.456,
+    "A": 0.27,
+    "H": 0.311,
+    "status": "ALERT",
+    "phase": "recovery"
+  },
+  {
+    "turn": 95,
+    "U": 0.723,
+    "D": 0.388,
+    "A": 0.289,
+    "H": 0.319,
+    "status": "ALERT",
+    "phase": "recovery"
+  },
+  {
+    "turn": 96,
+    "U": 0.641,
+    "D": 0.442,
+    "A": 0.218,
+    "H": 0.324,
+    "status": "ALERT",
+    "phase": "recovery"
+  },
+  {
+    "turn": 97,
+    "U": 0.733,
+    "D": 0.419,
+    "A": 0.169,
+    "H": 0.368,
+    "status": "ALERT",
+    "phase": "recovery"
+  },
+  {
+    "turn": 98,
+    "U": 0.735,
+    "D": 0.421,
+    "A": 0.175,
+    "H": 0.368,
+    "status": "ALERT",
+    "phase": "recovery"
+  },
+  {
+    "turn": 99,
+    "U": 0.786,
+    "D": 0.415,
+    "A": 0.152,
+    "H": 0.393,
+    "status": "ALERT",
+    "phase": "recovery"
+  },
+  {
+    "turn": 100,
+    "U": 0.809,
+    "D": 0.491,
+    "A": 0.119,
+    "H": 0.435,
+    "status": "ALERT",
+    "phase": "recovery"
+  }
+]
