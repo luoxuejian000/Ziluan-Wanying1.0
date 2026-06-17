@@ -1,0 +1,1 @@
+{"t": "2026-06-17T08:58:18", "action": "SELF_CORRECTION_REVIEW", "detected": ["A_INERT", "U_PEAK_REVERSAL", "SIGMA_D_TREND"], "reference": ["U_PEAK_REVERSAL", "A_INERT"], "missed": [], "extra": ["SIGMA_D_TREND"], "context": {"source": "demo", "history_length": 50}}

@@ -1,0 +1,227 @@
+[
+  {
+    "step": 4,
+    "signals": [
+      "U_PEAK_REVERSAL"
+    ],
+    "U": 0.315009,
+    "A": 0.2,
+    "H": 0.216004,
+    "D": 0.5,
+    "details": {
+      "A_inert": null,
+      "sigmaD_trend": null,
+      "U_peak_reversal": {
+        "signal": "U_PEAK_REVERSAL",
+        "at": 4,
+        "peak_at": 3,
+        "peak_U": 0.3824,
+        "now_U": 0.315,
+        "delta_U": -0.0674,
+        "now_H": 0.216,
+        "description": "统一性在场强度骤降，场域相变信号",
+        "source": "enhanced_sensors.detect_U_peak_reversal"
+      }
+    }
+  },
+  {
+    "step": 5,
+    "signals": [
+      "U_PEAK_REVERSAL"
+    ],
+    "U": 0.298466,
+    "A": 0.1,
+    "H": 0.239387,
+    "D": 0.5,
+    "details": {
+      "A_inert": null,
+      "sigmaD_trend": null,
+      "U_peak_reversal": {
+        "signal": "U_PEAK_REVERSAL",
+        "at": 5,
+        "peak_at": 3,
+        "peak_U": 0.3824,
+        "now_U": 0.2985,
+        "delta_U": -0.084,
+        "now_H": 0.2394,
+        "description": "统一性在场强度骤降，场域相变信号",
+        "source": "enhanced_sensors.detect_U_peak_reversal"
+      }
+    }
+  },
+  {
+    "step": 29,
+    "signals": [
+      "U_PEAK_REVERSAL"
+    ],
+    "U": 0.296127,
+    "A": 0.2,
+    "H": 0.208451,
+    "D": 0.5,
+    "details": {
+      "A_inert": null,
+      "sigmaD_trend": null,
+      "U_peak_reversal": {
+        "signal": "U_PEAK_REVERSAL",
+        "at": 29,
+        "peak_at": 26,
+        "peak_U": 0.3538,
+        "now_U": 0.2961,
+        "delta_U": -0.0577,
+        "now_H": 0.2085,
+        "description": "统一性在场强度骤降，场域相变信号",
+        "source": "enhanced_sensors.detect_U_peak_reversal"
+      }
+    }
+  },
+  {
+    "step": 30,
+    "signals": [
+      "U_PEAK_REVERSAL"
+    ],
+    "U": 0.292002,
+    "A": 0.2,
+    "H": 0.206801,
+    "D": 0.5,
+    "details": {
+      "A_inert": null,
+      "sigmaD_trend": null,
+      "U_peak_reversal": {
+        "signal": "U_PEAK_REVERSAL",
+        "at": 30,
+        "peak_at": 28,
+        "peak_U": 0.3508,
+        "now_U": 0.292,
+        "delta_U": -0.0588,
+        "now_H": 0.2068,
+        "description": "统一性在场强度骤降，场域相变信号",
+        "source": "enhanced_sensors.detect_U_peak_reversal"
+      }
+    }
+  },
+  {
+    "step": 47,
+    "signals": [
+      "U_PEAK_REVERSAL"
+    ],
+    "U": 0.255569,
+    "A": 0.0,
+    "H": 0.252228,
+    "D": 0.5,
+    "details": {
+      "A_inert": null,
+      "sigmaD_trend": null,
+      "U_peak_reversal": {
+        "signal": "U_PEAK_REVERSAL",
+        "at": 47,
+        "peak_at": 44,
+        "peak_U": 0.3657,
+        "now_U": 0.2556,
+        "delta_U": -0.1101,
+        "now_H": 0.2522,
+        "description": "统一性在场强度骤降，场域相变信号",
+        "source": "enhanced_sensors.detect_U_peak_reversal"
+      }
+    }
+  },
+  {
+    "step": 69,
+    "signals": [
+      "U_PEAK_REVERSAL"
+    ],
+    "U": 0.314828,
+    "A": 0.1,
+    "H": 0.245931,
+    "D": 0.5,
+    "details": {
+      "A_inert": null,
+      "sigmaD_trend": null,
+      "U_peak_reversal": {
+        "signal": "U_PEAK_REVERSAL",
+        "at": 69,
+        "peak_at": 66,
+        "peak_U": 0.3761,
+        "now_U": 0.3148,
+        "delta_U": -0.0613,
+        "now_H": 0.2459,
+        "description": "统一性在场强度骤降，场域相变信号",
+        "source": "enhanced_sensors.detect_U_peak_reversal"
+      }
+    }
+  },
+  {
+    "step": 78,
+    "signals": [
+      "U_PEAK_REVERSAL"
+    ],
+    "U": 0.33273,
+    "A": 0.1,
+    "H": 0.253092,
+    "D": 0.5,
+    "details": {
+      "A_inert": null,
+      "sigmaD_trend": null,
+      "U_peak_reversal": {
+        "signal": "U_PEAK_REVERSAL",
+        "at": 78,
+        "peak_at": 77,
+        "peak_U": 0.4047,
+        "now_U": 0.3327,
+        "delta_U": -0.072,
+        "now_H": 0.2531,
+        "description": "统一性在场强度骤降，场域相变信号",
+        "source": "enhanced_sensors.detect_U_peak_reversal"
+      }
+    }
+  },
+  {
+    "step": 79,
+    "signals": [
+      "U_PEAK_REVERSAL"
+    ],
+    "U": 0.338591,
+    "A": 0.0,
+    "H": 0.285436,
+    "D": 0.5,
+    "details": {
+      "A_inert": null,
+      "sigmaD_trend": null,
+      "U_peak_reversal": {
+        "signal": "U_PEAK_REVERSAL",
+        "at": 79,
+        "peak_at": 77,
+        "peak_U": 0.4047,
+        "now_U": 0.3386,
+        "delta_U": -0.0662,
+        "now_H": 0.2854,
+        "description": "统一性在场强度骤降，场域相变信号",
+        "source": "enhanced_sensors.detect_U_peak_reversal"
+      }
+    }
+  },
+  {
+    "step": 80,
+    "signals": [
+      "U_PEAK_REVERSAL"
+    ],
+    "U": 0.344456,
+    "A": 0.1,
+    "H": 0.257783,
+    "D": 0.5,
+    "details": {
+      "A_inert": null,
+      "sigmaD_trend": null,
+      "U_peak_reversal": {
+        "signal": "U_PEAK_REVERSAL",
+        "at": 80,
+        "peak_at": 77,
+        "peak_U": 0.4047,
+        "now_U": 0.3445,
+        "delta_U": -0.0603,
+        "now_H": 0.2578,
+        "description": "统一性在场强度骤降，场域相变信号",
+        "source": "enhanced_sensors.detect_U_peak_reversal"
+      }
+    }
+  }
+]
